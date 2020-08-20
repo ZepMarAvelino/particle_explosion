@@ -9,10 +9,10 @@ Library dependencies of the project are:
  - Clean code
  - Update documentation
  - Modify particle class
- ..- Remove "rotation axis"
- ..- Add mass
- ..- Move update() out of particle. (Movement will depend on all the other "particles" in the space)
+    - Remove "rotation axis"
+    - Add mass
+    - Move update() out of particle. (Movement will depend on all the other "particles" in the space)
  - Modify swarm class
- ..- Paralellize the class
+    - Paralellize the class
  - Modify screen class
- ..- Paralellize the class
+    - Paralellize the class
